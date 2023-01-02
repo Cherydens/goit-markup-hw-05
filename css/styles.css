@@ -194,7 +194,8 @@ background-color: var(--white-color);
 }
 
 .menu-link:hover,
-.menu-link:focus {
+.menu-link:focus,
+.current {
   color: var(--pressed-state-color);
 }
 
